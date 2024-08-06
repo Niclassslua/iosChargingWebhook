@@ -73,3 +73,14 @@ A (kinda) simple way to post your iPhone's charging status into your Discord Ser
 - File Handling Security: The usage of a `.txt` file for storing and retrieving data, as seen in the script, can be considered primitive and posess security and scalability concerns. For example: Race conditions from concurrent file access can corrupt data, Text files lack built-in access controls and encryption, Text files provide limited support for structured data and querying 📛
 
 *The file handling case may be resolved at a later time*
+
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Niclassslua/iosCharchingWebhook/issues). If you want to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcomed.
+
+## 📜 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
